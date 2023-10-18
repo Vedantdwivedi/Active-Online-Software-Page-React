@@ -49,9 +49,16 @@ const Home = (props) => {
                 </div>
               </div>
               <div className="home-right">
-                <div className="home-get-started">
-                  <span className="home-text06">Get started</span>
-                </div>
+                <a
+                  href="https://10.159.172.78:5200/form/jdOY0X"
+                  target="_blank"
+                  rel="noreferrer noopener"
+                  className="home-link"
+                >
+                  <div className="home-get-started">
+                    <span className="home-text06">Get started</span>
+                  </div>
+                </a>
                 <div id="open-mobile-menu" className="home-burger-menu">
                   <img
                     alt="pastedImage"
@@ -211,9 +218,16 @@ closeButton.addEventListener("click", function() {
                 With Jio Observe you can get the alerts based on your selected
                 metrics criteria and take decision proactively.
               </span>
-              <div className="home-get-started2 template-button">
-                <span className="home-text27">Get started</span>
-              </div>
+              <a
+                href="https://10.159.172.78:5200/form/jdOY0X"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link1"
+              >
+                <div className="home-get-started2 template-button">
+                  <span className="home-text27">Get started</span>
+                </div>
+              </a>
             </div>
             <div className="home-image-container">
               <img
@@ -271,9 +285,16 @@ closeButton.addEventListener("click", function() {
               <h2 className="home-text37 title">
                 Powerful tool stack that saves you time
               </h2>
-              <div className="home-get-started3 template-button">
-                <span className="home-text38">Get started</span>
-              </div>
+              <a
+                href="https://10.159.172.78:5200/form/jdOY0X"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link2"
+              >
+                <div className="home-get-started3 template-button">
+                  <span className="home-text38">Get started</span>
+                </div>
+              </a>
             </div>
             <div className="home-image-container2">
               <img
@@ -332,9 +353,16 @@ closeButton.addEventListener("click", function() {
                 of your tech stack so that we can integrate the metrics, logs
                 and alerts
               </span>
-              <div className="home-get-started4 template-button">
-                <span className="home-text46">Get started</span>
-              </div>
+              <a
+                href="https://10.159.172.78:5200/form/jdOY0X"
+                target="_blank"
+                rel="noreferrer noopener"
+                className="home-link3"
+              >
+                <div className="home-get-started4 template-button">
+                  <span className="home-text46">Get started</span>
+                </div>
+              </a>
             </div>
             <div className="home-container11">
               <img
@@ -643,10 +671,10 @@ Here's what the above is doing:
             <div className="home-contact">
               <span className="home-text79">Contact</span>
               <a
-                href="mailto:use@active-app.com?subject=Support"
-                className="home-link"
+                href="mailto:Enterprise_DevSecOps@ril.com?subject=Support"
+                className="home-link4"
               >
-                enterprise-devops@ril.com
+                Enterprise_DevSecOps@ril.com
               </a>
             </div>
           </div>
